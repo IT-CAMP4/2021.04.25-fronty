@@ -1,0 +1,29 @@
+a {
+	font-size: 32px;
+	color: red;
+	margin: 5px 7px 8px 10px;
+}
+
+#passowrd-input {
+	font-size: 20px;
+	color: blue;
+}
+
+.input-text {
+	background-color: green;
+	transition: background-color 1s;
+}
+
+* {
+	
+}
+
+input[type=text] {
+	font-size: 40px;
+	width: 1000px;
+	height: 100px;
+}
+
+.input-text:hover {
+	background-color: yellow;
+}
